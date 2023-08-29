@@ -1,4 +1,4 @@
-# Carrot-Carpet
+# carrot-carpet
 ## An iOS app that calculates body mass index then suggests three meals every everyday of the week.
 
 <img src="https://i.imgur.com/SWBZaPm.png" alt="drawing" width="400"/> 
